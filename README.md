@@ -4,8 +4,13 @@
 
 AOMEI Partition Assistant · MoggyDay · 10.12 · v10.12.1
 
-# AOMEI Partition Assistant 10.12 “Pro for Windows: resize, migrate, partitions” [v10.12.1]
+# AOMEI Partition Assistant 10.12 “for Windows: resize, migrate, partitions” [v10.12.1]
 
+
+<p>
+  <a href="https://moggydayprogram.com/programs/aomei-partition-assistant"><img src="docs/media/shot-1.jpg" alt="clone" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/aomei-partition-assistant"><img src="docs/media/shot-2.jpg" alt="menu" width="280"></a>
+</p>
 
 MoggyDay keeps one stable URL for AOMEI Partition Assistant: EN / RU. Resize, migrate, partitions. 116 MB, Windows x64.
 
