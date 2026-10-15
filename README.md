@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/aomei-partition-assistant-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/aomei-partition-assistant-windows/?lang=en) · [Русский](https://soldermofitting.github.io/aomei-partition-assistant-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/aomei-partition-assistant"><img src="docs/media/preview.jpg" alt="Partition Assistant preview" width="640"></a>
+</p>
+
 AOMEI Partition Assistant · MoggyDay · 10.12 · v10.12.1
 
 # AOMEI Partition Assistant 10.12 “for Windows: resize, migrate, partitions” [v10.12.1]
